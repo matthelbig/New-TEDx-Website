@@ -1,5 +1,3 @@
 tedxdepaulu.github.io
 ====================
-Now flatter and more fun!
-
-
+Now flat and more fun!
